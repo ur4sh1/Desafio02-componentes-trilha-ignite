@@ -1,5 +1,5 @@
 #Exercício React
-<h1 align="center">:file_cabinet: Desafio 02 - Hook</h1>
+<h1 align="center">:file_cabinet: Desafio 02 - Componentes</h1>
 
 ## :memo: Descrição
 Exercício de React.
